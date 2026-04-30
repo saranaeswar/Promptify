@@ -1,0 +1,7 @@
+{
+  "name": "Promptify",
+  "description": "A prompt engineering studio — transform rough ideas into optimized, high-performance AI prompts with variations.",
+  "version": "1.0.0",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
